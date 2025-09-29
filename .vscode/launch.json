@@ -1,0 +1,63 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Butterfly",
+            "request": "launch",
+            "mainClass": "Butterfly",
+            "projectName": "Java_7d0a3f9d"
+        },
+        {
+            "type": "java",
+            "name": "Function",
+            "request": "launch",
+            "mainClass": "Function",
+            "projectName": "Java_7d0a3f9d"
+        },
+        {
+            "type": "java",
+            "name": "Game",
+            "request": "launch",
+            "mainClass": "Game",
+            "projectName": "Java_7d0a3f9d"
+        },
+        {
+            "type": "java",
+            "name": "Guess",
+            "request": "launch",
+            "mainClass": "Guess",
+            "projectName": "Java_7d0a3f9d"
+        },
+        {
+            "type": "java",
+            "name": "Palindromic",
+            "request": "launch",
+            "mainClass": "Palindromic",
+            "projectName": "Java_7d0a3f9d"
+        },
+        {
+            "type": "java",
+            "name": "Triangle",
+            "request": "launch",
+            "mainClass": "Triangle",
+            "projectName": "Java_7d0a3f9d"
+        },
+        {
+            "type": "java",
+            "name": "diamond",
+            "request": "launch",
+            "mainClass": "diamond",
+            "projectName": "Java_7d0a3f9d"
+        }
+    ]
+}
